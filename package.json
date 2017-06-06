@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "leon-template:add"
   },
-  "repository": "https://github.com/atom/leon-template",
+  "repository": "https://github.com/lvfeiyang/leon-template.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

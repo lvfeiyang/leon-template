@@ -5,7 +5,6 @@
   "description": "leon tools for insert same template code",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "leon-template:add"
   },
   "repository": "https://github.com/lvfeiyang/leon-template.git",
   "license": "MIT",
